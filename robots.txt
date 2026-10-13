@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://huiyi-stat.github.io/sitemap.xml
